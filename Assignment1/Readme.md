@@ -14,6 +14,9 @@ It will ask the public server for the IP answer and return
 - Enter flag = 1
 If cache hit, return the result directly;
 If cache miss, it will do iterative query by asking the root server, then ask next authority DNS based on the answer provided by the root server. It will print out all IP addresses it has passed after getting result. Finally, store the data into the cache so that it can be faster to fetch back if next time you ask the same domain name.
+<img width="738" alt="79c77f08807035c3f8739eee7d872f6" src="https://github.com/Yifu-Tian/ECE4016/assets/102942951/e89f0f6a-c808-43de-900b-91ee736e0dba">
+
+![image](https://github.com/Yifu-Tian/ECE4016/assets/102942951/0edd1d42-f183-4463-ab65-6ca37c1be5d9)
 
 ## NOTE: TIMEOUT OCCURS
 - Sometimes the timeout occurs and the terminals give no response. The only solution is to close all terminals and try again.
