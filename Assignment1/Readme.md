@@ -1,3 +1,7 @@
+## Abstract
+- This assignment implemented a local DNS serve, which is used to fetch back the IP address as the client required. Here are two ways to access, ask public server for IP address and search iteratively.
+- ![image](https://github.com/Yifu-Tian/ECE4016/assets/102942951/f577ff7d-485b-4cd8-b57a-cddfc44eda24)
+
 ## HOW TO EXECUTE
 - Firstly, enter "python3 DNS.py" in the terminal(under the folder that contains DNS.py)
 - Secondly, it will ask you to enter a flag (0 or 1) to determine which method to be used
