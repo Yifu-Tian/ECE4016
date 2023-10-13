@@ -15,7 +15,7 @@ It will ask the public server for the IP answer and return
 If cache hit, return the result directly;
 If cache miss, it will do iterative query by asking the root server, then ask next authority DNS based on the answer provided by the root server. It will print out all IP addresses it has passed after getting result. Finally, store the data into the cache so that it can be faster to fetch back if next time you ask the same domain name.
 
-<img width="738" alt="79c77f08807035c3f8739eee7d872f6" src="https://github.com/Yifu-Tian/ECE4016/assets/102942951/9d4719da-9e61-4929-adab-1cfef37b4417">
+<p><img width="738" alt="79c77f08807035c3f8739eee7d872f6" src="https://github.com/Yifu-Tian/ECE4016/assets/102942951/9d4719da-9e61-4929-adab-1cfef37b4417" align="middle" ></p>
 <img width="734" alt="b5946c93c15757c3d14fe440224da25" src="https://github.com/Yifu-Tian/ECE4016/assets/102942951/a98b8f3a-0a75-407d-9b13-72e0cd0c440f">
 
 
